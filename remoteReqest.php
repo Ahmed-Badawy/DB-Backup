@@ -6,7 +6,7 @@
 <body>
 
 
-<form action="remote_file.php" method='post'>
+<form action="remoteController.php" method='post'>
 	<input type='text' name='host' value='localhost' />
 	<input type='text' name='db' value='test' />
 	<input type='text' name='user' value='root' />
